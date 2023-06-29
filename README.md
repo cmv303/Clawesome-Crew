@@ -1,9 +1,8 @@
 # The Daily Clawsmic (Legally\* required to have cats part of this project)
-
 [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://lbesson.mit-license.org/)
 
-## Table of Contents
 
+## Table of Contents
 [Description](#Description)
 
 [Features](#Features)
@@ -26,14 +25,14 @@
 
 [License](#license)
 
-# Description
 
+# Description
 The Daily Clawsmic interacts with various NASA APIs to showcase a picture of the day, provide many Mars Rover (Curiosity) photos, and supplies articles and links for NASA-developed technologies, available for commercial and non-commerical use. There, you'll find information such as titles, summaries, categories, and patent information!
 
 With this web application the user has the ability to sign up and login in order to save favorites. Those favorites will stay on on the user's personalized dashboard until they're ready to discard them. That way, following all one's space needs (cats included) is as easy as one click of a button.
 
-## Features
 
+## Features
 (client-side)
 
 - React
@@ -53,8 +52,8 @@ With this web application the user has the ability to sign up and login in order
 - bcrypt
 - dotenv
 
-## Installation
 
+## Installation
 Install dependencies with npm
 
 ```cmd-line
@@ -62,7 +61,6 @@ Install dependencies with npm
 ```
 
 ## Run Locally
-
 Install dependencies
 
 ```bash
@@ -77,8 +75,8 @@ Start the server
 
 \*\*Don't forget to make your own `dotenv` and `gitignore` files in the root directory!
 
-## Environment Variables
 
+## Environment Variables
 To run this project, you will need to add the following environment variables to your .env file
 
 ```cmd-line
@@ -86,15 +84,14 @@ REACT_APP_API_KEY=<YOUR_NASA_API_KEY>
 ```
 
 ## API Reference
-
 [React](https://reactjs.org/docs/getting-started.html): Official documentation for the React library.
 
 [Semantic UI React](https://react.semantic-ui.com/): Documentation for the Semantic UI React library used in this project.
 
 [NASA APIs](https://api.nasa.gov/): Documentation for the NASA APIs used in this project, including the [Astronomy Picture of the Day API](https://api.nasa.gov/api.html#apod), [Mars Rover Photos API](https://api.nasa.gov/api.html#MarsPhotos), and [NASA Tech Transfer API](https://technology.nasa.gov/api/techtransfer).
 
-## Deployment
 
+## Deployment
 To see deployed site on Heroku, click here:
 
 https://cosmic-gallary.herokuapp.com/
@@ -105,12 +102,13 @@ https://cosmic-gallary.herokuapp.com/
 <img width="1424" alt="Screenshot 2023-05-15 at 6 24 57 PM" src="https://github.com/Catalystix/Clawesome-Crew/assets/115678318/9cfe4ff4-6120-476c-83a6-5b6f3e27573a">
 <img width="1413" alt="Screenshot 2023-05-15 at 6 25 25 PM" src="https://github.com/Catalystix/Clawesome-Crew/assets/115678318/4bc31c1c-f005-4d0e-8ab1-339ba3536a8e">
 
+
 ## Wireframe
 
 ![image_720](https://user-images.githubusercontent.com/118003612/235561033-dc74b3ba-cdbe-4a9b-a565-3aa6f12898f2.png)
 
-## Authors (alphabetical)
 
+## Authors (alphabetical)
 Alex Barrett,
 Drew Greenblatt,
 Hope Mansfield,
